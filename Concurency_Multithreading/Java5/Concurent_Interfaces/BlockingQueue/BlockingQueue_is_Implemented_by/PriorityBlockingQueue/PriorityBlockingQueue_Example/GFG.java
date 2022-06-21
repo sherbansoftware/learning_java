@@ -1,0 +1,4 @@
+package Concurency_Multithreading.Java5.Concurent_Interfaces.BlockingQueue.BlockingQueue_is_Implemented_by.PriorityBlockingQueue.PriorityBlockingQueue_Example;
+
+public class GFG {
+}
