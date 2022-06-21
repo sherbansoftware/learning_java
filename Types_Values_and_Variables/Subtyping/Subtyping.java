@@ -2,6 +2,7 @@ package Types_Values_and_Variables.Subtyping;
 
 /*                                                     Subtyping
 
+
     The subtype and supertype relations are binary relations on types.
 
     The supertypes of a type are obtained by reflexive and transitive closure over the direct supertype relation,

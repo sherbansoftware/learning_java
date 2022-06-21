@@ -114,6 +114,7 @@ class Frog {
 }
 
 public class Object_ {
+    Object o;
     public static void main(String[] args) {
 
                                                 // toString() method

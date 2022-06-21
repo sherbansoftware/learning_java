@@ -54,8 +54,8 @@ public class App {
 
         // System.out.println(value1 == value2); // false
 
-        String str1 = new String("String");
-        String str2 = new String("String");
+        String str1 = new String("lang/classes/String");
+        String str2 = new String("lang/classes/String");
         //System.out.println(str1 == str2);  // false
        // System.out.println(str1.equals(str2));  // true
         String str3 ="Hello";

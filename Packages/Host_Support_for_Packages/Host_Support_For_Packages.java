@@ -2,7 +2,7 @@ package Packages.Host_Support_for_Packages;
 
 //  https://docs.oracle.com/javase/specs/jls/se8/html/jls-7.html#jls-7.2
 
-/*                                                             Host Support for Packages
+/*                                             Host Support for Packages
 
     Each host system determines how packages and compilation units are created and stored.
 
@@ -11,7 +11,7 @@ package Packages.Host_Support_for_Packages;
 
     In simple implementations of the Java SE platform, packages and compilation units may be stored in a
 
-            * local file system.
+             * local file system.
              * distributed file system
              * or some form of database.
 
